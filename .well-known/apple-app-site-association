@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4TUK4U9R8W.com.hritikaggarwal.foodorganizer",
+        "paths": ["/verify/*"]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["4TUK4U9R8W.com.hritikaggarwal.foodorganizer"]
+  }
+}
